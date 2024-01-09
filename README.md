@@ -1,6 +1,6 @@
 ## Analyzing Europe's atmospheric pollution levels using CAMS PM10 data 🛰️🏭
 
-<img src="image/cams_plot_cropped_to_content.jpg" alt="image" width="100" height="auto">
+<img src="image/cams_plot_cropped_to_content.jpg" alt="image" width="400" height="auto">
 
 #### Goal: 
 to find out which places in Europe were characterized by exceedingly high PM10 concentration levels
